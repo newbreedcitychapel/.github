@@ -1,4 +1,6 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg" width="20%"></a></p>
+<p align="center"><a href="https://iosf.in/" target="_blank">
+<img src="https://github.com/newbreedcitychapel/.github/blob/main/profile/newbreedcitychapel.jpg" width="20%"></a
+></p>
 
 <h1 align="center">New Breed City Chapel</h1>
 <h2 align="center">A Place of Love, Purpose and Dominion</h2>
